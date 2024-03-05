@@ -6,6 +6,8 @@ export default function App() {
     <View style={styles.container}>
       <Text>Renan dos Santos Ferreira</Text>
       <Text>João Victor de Souza e Renan</Text>
+      <Text>clone</Text>
+      <Text>clone</Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -19,3 +21,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
